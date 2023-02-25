@@ -1,0 +1,4 @@
+<?php
+// Precisando de ajuda para desenvolver o seu sistema? acesse sistema-web-para.com.br e contrate uma assessoria...
+?>
+<input type="tel" autocomplete="<?php echo rand(); ?>" name="<?php echo $ppropriedade ?>" class="form-control  user-success input-sm" id="<?php echo strip_tags($ppropriedade.$_GET['id']); ?>" placeholder="(00) 00000-0000" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" maxlength="15" value="<?php echo htmlentities(${$ttabela}[$ppropriedade]); ?>" oninvalid="InvalidMsg(this,'Informe o <?php echo $llabel ?> no padrão a seguir: (00) 00000-0000');" <?php echo implode_if_is_array(' ', $pparametros); ?>/>
