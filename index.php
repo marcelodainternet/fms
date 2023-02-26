@@ -64,7 +64,7 @@ exit;
 <html lang="pt-br">
 <head>
 <?php
-$ttitulo = 'EducAdmin';
+$ttitulo = 'SISTEMA FMS';
 include('inc.head.php');
 ?>
 </head>
@@ -130,7 +130,7 @@ if(is_dir('instalar/')){ rmrdir('instalar/'); }
 <hr>
 <footer class="row" padding-top:20px;">
 <div align="center" class="col-12"> 
-<p style="font-size:15px;"><?php echo date('Y'); ?>&copy; <a href="https://api.whatsapp.com/send?phone=5548998141630&text=Olá Marilete, venho do sistema EducAdmin, você pode me atender?" target="_blanc">EducAdmin</a> Todos os direitos reservados.</p>
+<p style="font-size:15px;"><?php echo date('Y'); ?>&copy; <a href="https://api.whatsapp.com/send?phone=5548998327848&text=Olá Marcelo, venho do SISTEMA FMS, você pode me atender?" target="_blanc">EducAdmin</a> Todos os direitos reservados.</p>
 <p style="font-size:12px;">
 <?php
 list($usec, $sec) = explode(' ', microtime());
@@ -144,7 +144,7 @@ PHP: <?php echo phpversion(); ?> -
 MySQL: <?php echo sql($a, 'SELECT VERSION() as valor'); ?> - 
 <?php echo date('d/m/Y H:i:s'); ?>
 </p>
-<p style="font-size:14px;">Desenvolvido por: <a href="https://api.whatsapp.com/send?phone=5548999775791&text=Olá Marcelo, venho do sistema EducAdmin, você pode me atender?" target="_blanc">Marcelo Silveira</a></p>
+<p style="font-size:14px;">Desenvolvido por: <a href="https://api.whatsapp.com/send?phone=5548998327848&text=Olá Marcelo, venho do SISTEMA FMS, você pode me atender?" target="_blanc">Marcelo Silveira</a></p>
 
 </div>
 </footer>

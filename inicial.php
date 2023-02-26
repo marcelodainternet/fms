@@ -43,13 +43,13 @@ exit;
 <html lang="pt-br">
 <head>
 <?php
-$ttitulo = 'Inicial';
+$ttitulo = 'SISTEMA FMS';
 ?>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title><?php echo $ttitulo ?></title>
-<meta name="author" content="Marcelo Silveira (48) 99977-5791 WhatsApp">
+<meta name="author" content="Marcelo Silveira (48) 99832-7848 WhatsApp">
 <meta name="Reply-to" content="marcelodainternet@gmail.com">
 
 <meta name="theme-color" content="#fff">
@@ -69,8 +69,7 @@ $ttitulo = 'Inicial';
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <link href="css/base.css" rel="stylesheet" type="text/css">
 <script src="js/funcoes.js"></script>
-
-<meta http-equiv="refresh" content="3;URL=recados-listar.php">
+<!-- <meta http-equiv="refresh" content="3;URL=recados-listar.php"> -->
 </head>
 <body style="overflow-x: hidden;" >
 <div class="container">

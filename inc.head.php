@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title><?php echo $ttitulo ?></title>
-<meta name="author" content="Marcelo Silveira (48) 99977-5791 WhatsApp">
+<meta name="author" content="Marcelo Silveira (48) 99832-7848 WhatsApp">
 <meta name="Reply-to" content="marcelodainternet@gmail.com">
 
 <meta name="theme-color" content="#00468C">
